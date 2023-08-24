@@ -4,4 +4,6 @@
 
 - 📫 How to reach me: chloehusea@gmail.com
 
-- ⚡ I love playing connecting 4, discovering new podcasts, and watching thriller moviews when I am free.
+- ⚡ Technical skills:
+      - Languages: Python, Javascript, Typescript, Java.
+      - Framework & Tools: Next.js, Prisma, Node.js, Git, Azure, GCP, PostgreSQL, Auth.js, Docker. 
