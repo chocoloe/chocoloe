@@ -5,6 +5,6 @@
 - 📫 How to reach me: chloehusea@gmail.com
 - Linkedin: https://www.linkedin.com/in/chloehu-xy/ 
 
-- ⚡ Technical skills:
-      - Languages: Python, Javascript, Typescript, Java.
+- ⚡ Fluent skills: \
+      - Languages: Python, Typescript, Java. \
       - Framework & Tools: Next.js, Prisma, Node.js, Git, Azure, GCP, PostgreSQL, Auth.js, Docker. 
